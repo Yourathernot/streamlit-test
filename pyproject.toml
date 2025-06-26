@@ -1,0 +1,10 @@
+[project]
+name = "streamlit-test"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.3.0",
+    "st-gsheets-connection>=0.1.0",
+    "streamlit>=1.46.0",
+]
